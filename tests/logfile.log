@@ -1,0 +1,206 @@
+2024-08-08 13:48:16,057 :INFO : test_e2e :Getting all the cards text
+2024-08-08 13:48:16,300 :INFO : test_e2e :Entering country name
+2024-08-08 13:48:21,664 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 13:52:58,425 :INFO : test_e2e :Getting all the cards text
+2024-08-08 13:52:58,449 :INFO : test_e2e :iphone X
+2024-08-08 13:52:58,455 :INFO : test_e2e :Samsung Note 8
+2024-08-08 13:52:58,461 :INFO : test_e2e :Nokia Edge
+2024-08-08 13:52:58,469 :INFO : test_e2e :Blackberry
+2024-08-08 13:52:58,599 :INFO : test_e2e :Entering country name
+2024-08-08 13:53:03,873 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 13:55:57,530 :INFO : test_formSubmission :First name is Natan
+2024-08-08 13:55:58,340 :INFO : test_formSubmission :First name is Tania
+2024-08-08 13:55:58,340 :INFO : test_formSubmission :First name is Tania
+2024-08-08 13:59:44,167 :INFO : test_formSubmission :First name is Natan
+2024-08-08 13:59:44,985 :INFO : test_formSubmission :First name is Tania
+2024-08-08 13:59:44,985 :INFO : test_formSubmission :First name is Tania
+2024-08-08 13:59:52,532 :INFO : test_e2e :Getting all the cards text
+2024-08-08 13:59:52,554 :INFO : test_e2e :iphone X
+2024-08-08 13:59:52,561 :INFO : test_e2e :Samsung Note 8
+2024-08-08 13:59:52,569 :INFO : test_e2e :Nokia Edge
+2024-08-08 13:59:52,576 :INFO : test_e2e :Blackberry
+2024-08-08 13:59:52,707 :INFO : test_e2e :Entering country name
+2024-08-08 13:59:57,985 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 14:07:54,864 :INFO : test_formSubmission :First name is Natan
+2024-08-08 14:07:55,669 :INFO : test_formSubmission :First name is Tania
+2024-08-08 14:07:55,669 :INFO : test_formSubmission :First name is Tania
+2024-08-08 14:08:02,503 :INFO : test_e2e :Getting all the cards text
+2024-08-08 14:08:02,524 :INFO : test_e2e :iphone X
+2024-08-08 14:08:02,533 :INFO : test_e2e :Samsung Note 8
+2024-08-08 14:08:02,542 :INFO : test_e2e :Nokia Edge
+2024-08-08 14:08:02,551 :INFO : test_e2e :Blackberry
+2024-08-08 14:08:02,696 :INFO : test_e2e :Entering country name
+2024-08-08 14:08:07,952 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 14:09:28,715 :INFO : test_formSubmission :First name is Natan
+2024-08-08 14:09:29,512 :INFO : test_formSubmission :First name is Tania
+2024-08-08 14:09:29,512 :INFO : test_formSubmission :First name is Tania
+2024-08-08 14:09:36,412 :INFO : test_e2e :Getting all the cards text
+2024-08-08 14:09:36,437 :INFO : test_e2e :iphone X
+2024-08-08 14:09:36,444 :INFO : test_e2e :Samsung Note 8
+2024-08-08 14:09:36,451 :INFO : test_e2e :Nokia Edge
+2024-08-08 14:09:36,457 :INFO : test_e2e :Blackberry
+2024-08-08 14:09:36,599 :INFO : test_e2e :Entering country name
+2024-08-08 14:09:41,853 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 15:31:16,282 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:31:17,382 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:31:17,382 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:31:24,990 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:31:25,024 :INFO : test_e2e :iphone X
+2024-08-08 15:31:25,039 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:31:25,048 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:31:25,055 :INFO : test_e2e :Blackberry
+2024-08-08 15:31:25,270 :INFO : test_e2e :Entering country name
+2024-08-08 15:31:30,579 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 15:35:26,021 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:35:26,840 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:35:26,840 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:35:34,655 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:35:34,678 :INFO : test_e2e :iphone X
+2024-08-08 15:35:34,685 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:35:34,693 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:35:34,699 :INFO : test_e2e :Blackberry
+2024-08-08 15:35:34,838 :INFO : test_e2e :Entering country name
+2024-08-08 15:35:40,144 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 15:51:07,864 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:51:08,667 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:51:08,667 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:51:15,574 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:51:15,599 :INFO : test_e2e :iphone X
+2024-08-08 15:51:15,607 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:51:15,614 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:51:15,622 :INFO : test_e2e :Blackberry
+2024-08-08 15:51:15,801 :INFO : test_e2e :Entering country name
+2024-08-08 15:51:21,071 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 15:52:05,401 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:52:06,157 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:52:06,157 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:52:13,233 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:52:13,260 :INFO : test_e2e :iphone X
+2024-08-08 15:52:13,268 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:52:13,275 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:52:13,283 :INFO : test_e2e :Blackberry
+2024-08-08 15:53:21,805 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:53:22,529 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:53:22,529 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:53:30,300 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:53:30,322 :INFO : test_e2e :iphone X
+2024-08-08 15:53:30,331 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:53:30,339 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:53:30,364 :INFO : test_e2e :Blackberry
+2024-08-08 15:54:20,145 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:54:24,528 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:54:24,528 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:54:40,577 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:54:40,587 :INFO : test_e2e :iphone X
+2024-08-08 15:54:40,592 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:54:40,599 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:54:40,604 :INFO : test_e2e :Blackberry
+2024-08-08 15:54:41,247 :INFO : test_e2e :Entering country name
+2024-08-08 15:54:46,964 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 15:55:30,306 :INFO : test_formSubmission :First name is Natan
+2024-08-08 15:55:31,101 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:55:31,101 :INFO : test_formSubmission :First name is Tania
+2024-08-08 15:55:38,058 :INFO : test_e2e :Getting all the cards text
+2024-08-08 15:55:38,079 :INFO : test_e2e :iphone X
+2024-08-08 15:55:38,084 :INFO : test_e2e :Samsung Note 8
+2024-08-08 15:55:38,092 :INFO : test_e2e :Nokia Edge
+2024-08-08 15:55:38,098 :INFO : test_e2e :Blackberry
+2024-08-08 15:55:38,229 :INFO : test_e2e :Entering country name
+2024-08-08 15:55:43,524 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 16:07:41,875 :INFO : test_formSubmission :First name is Natan
+2024-08-08 16:07:42,739 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:07:42,739 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:07:49,563 :INFO : test_e2e :Getting all the cards text
+2024-08-08 16:07:49,588 :INFO : test_e2e :iphone X
+2024-08-08 16:07:49,594 :INFO : test_e2e :Samsung Note 8
+2024-08-08 16:07:49,603 :INFO : test_e2e :Nokia Edge
+2024-08-08 16:07:49,609 :INFO : test_e2e :Blackberry
+2024-08-08 16:07:49,749 :INFO : test_e2e :Entering country name
+2024-08-08 16:07:54,980 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 16:10:26,045 :INFO : test_formSubmission :First name is Natan
+2024-08-08 16:10:26,861 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:10:26,861 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:10:34,380 :INFO : test_e2e :Getting all the cards text
+2024-08-08 16:10:34,402 :INFO : test_e2e :iphone X
+2024-08-08 16:10:34,411 :INFO : test_e2e :Samsung Note 8
+2024-08-08 16:10:34,420 :INFO : test_e2e :Nokia Edge
+2024-08-08 16:10:34,427 :INFO : test_e2e :Blackberry
+2024-08-08 16:10:34,615 :INFO : test_e2e :Entering country name
+2024-08-08 16:10:39,877 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 16:12:37,355 :INFO : test_formSubmission :First name is Natan
+2024-08-08 16:12:38,159 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:12:38,159 :INFO : test_formSubmission :First name is Tania
+2024-08-08 16:12:46,067 :INFO : test_e2e :Getting all the cards text
+2024-08-08 16:12:46,092 :INFO : test_e2e :iphone X
+2024-08-08 16:12:46,099 :INFO : test_e2e :Samsung Note 8
+2024-08-08 16:12:46,110 :INFO : test_e2e :Nokia Edge
+2024-08-08 16:12:46,118 :INFO : test_e2e :Blackberry
+2024-08-08 16:12:46,279 :INFO : test_e2e :Entering country name
+2024-08-08 16:12:51,538 :INFO : test_e2e :Text received form application: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-08 17:20:11,412 :INFO : test_formSubmission :first name is Nagan
+2024-08-08 17:22:11,145 :INFO : test_formSubmission :first name is Nagan
+2024-08-08 17:22:34,962 :INFO : test_formSubmission :first name is Nagan
+2024-08-08 17:23:58,640 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 17:24:28,850 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:40,560 :INFO : test_formSubmission :First name is firstname
+2024-08-08 19:34:46,041 :INFO : test_formSubmission :First name is Natan
+2024-08-08 19:34:46,041 :INFO : test_formSubmission :First name is Natan
+2024-08-08 19:34:46,885 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 19:34:46,885 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 19:34:46,885 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 19:34:47,672 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:34:47,672 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:34:47,672 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:34:47,672 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:34:48,492 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:34:48,492 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:34:48,492 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:34:48,492 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:34:48,492 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:49,344 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:34:50,142 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:23,532 :INFO : test_formSubmission :First name is Natan
+2024-08-08 19:35:24,351 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 19:35:24,351 :INFO : test_formSubmission :First name is Nagan
+2024-08-08 19:35:25,094 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:35:25,094 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:35:25,094 :INFO : test_formSubmission :First name is Beto
+2024-08-08 19:35:25,822 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:35:25,822 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:35:25,822 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:35:25,822 :INFO : test_formSubmission :First name is Tania
+2024-08-08 19:35:26,581 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:35:26,581 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:35:26,581 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:35:26,581 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:35:26,581 :INFO : test_formSubmission :First name is Andressa
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
+2024-08-08 19:35:27,343 :INFO : test_formSubmission :First name is Cecilia
